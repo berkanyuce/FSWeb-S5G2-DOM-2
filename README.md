@@ -27,13 +27,13 @@ Bu projede sakın **hiçbir dosyayı taşımayın veya adını değiştirmeyin**
 * [ ] [index.js dosyası](src/index.js)'nı kullanarak, en az 10 _farklı_ tipte [event listeners](https://developer.mozilla.org/en-US/docs/Web/Events) oluşturun. Bu siteyi interaktif hale getirmek için kendi yaratıcılığınızı kullanın. Örnek, eventlerle renkleri değiştirebilir, nesnelere animasyonlar ekleyebilir, DOM elementleri ekleyebilir veya silebilirsiniz.
 
 * [ ] Kullanabileceğiniz bazı event çeşitleri şunlardır:
-  * [ ] `mouseover`
-  * [ ] `keydown`
-  * [ ] `wheel`
-  * [ ] `load`
+  * [x] `mouseover`
+  * [x] `keydown`
+  * [x] `wheel`
+  * [x] `load`
   * [ ] `focus`
-  * [ ] `resize`
-  * [ ] `scroll`
+  * [x] `resize`
+  * [x] `scroll`
   * [ ] `select`
   * [ ] `dblclick`
   * [ ] `drag / drop`
